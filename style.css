@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:wght@600&display=swap');
-@import url(//db.onlinewebfonts.com/c/5d31f7e418680fc65e031bd05a7fa996?family=Dense);
+@import url('https://db.onlinewebfonts.com/c/5d31f7e418680fc65e031bd05a7fa996?family=Dense');
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 @import url('https://fonts.googleapis.com/css2?family=Antic&display=swap'); 
 /* For Article Date */
@@ -26,13 +26,13 @@ nav {
   justify-content:space-between;
 }
 nav h1{
-  font-family: 'Antic', sans-serif;
+  font-family: 'Noto Sans JP', sans-serif;
   font-size: 50px;
   color: #ffffff;
 }
 h1 {
     color : #ffffff;
-    font-family: 'Antic', sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
     font-size: 30px;
 }
 nav .onglets{
