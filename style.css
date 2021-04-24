@@ -27,7 +27,7 @@ nav {
 }
 nav h1{
   font-family: 'Noto Sans JP', sans-serif;
-  font-size: 50px;
+  font-size: 30px;
   color: #ffffff;
 }
 h1 {
@@ -116,6 +116,16 @@ footer .social-media p{
   footer .social-media{
     margin-top: -20px;
   }
+  nav h1{
+    font-size: 25x;
+  }
+  h1{
+    font-size: 20px;
+  }
+  nav .onglets a{
+    display: none;
+  }
+  
 
 }
 
@@ -124,6 +134,7 @@ footer .social-media p{
 nav a {
     color: #ffffff;
 }
+
 
 
 
@@ -216,6 +227,11 @@ nav a {
   
   
   /* Button addendum code*/
+
+
+
+
+
 
 
 /* Animated Background */
