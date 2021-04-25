@@ -98,6 +98,13 @@ footer .social-media p{
   margin-right: 20px;
 }
 
+@media screen and (max-width: 1280px){
+  .articles .article .right{
+    margin: 0px;
+    max-width: 100%;
+  }
+}
+
 @media screen and (max-width: 640px){
   body{
     margin: 10px 20px;

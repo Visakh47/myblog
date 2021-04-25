@@ -76,12 +76,13 @@ h4 {
   font-weight: 400;
 }
 
+
 img {
   display: block;
   height: auto;
-  margin: 0 1.618rem 0 0;
-  max-width: 144px;
-  float: left;
+  margin: 0 1.618rem 1.618rem 0;
+  max-width: 100%;
+  float: center;
 }
 
 p {
@@ -101,7 +102,12 @@ pre {
 }
 
 .c-circle {
-  border-radius: 50%;
+  border-radius: 10%;
+  display: block;
+  height: auto;
+  margin: 0 1.618rem 0 0;
+  max-width: 144px;
+  float: left;
 }
 
 .group::after, .grid::after {
