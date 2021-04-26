@@ -43,6 +43,9 @@ body {
   font-size: var(--normal-font-size);
   background-color: black; /* change here */
   color: var(--text-color);
+  /* Changes for iphone safe area */
+  padding-left: env(safe-area-inset-left);
+  padding-right: env(safe-area-inset-right);
 }
 
 h1, h2, ul, p {
@@ -322,6 +325,7 @@ img {
   }
   .islands__description {
     padding-right: 5rem;
+
     margin-bottom: 2rem;
   }
   .islands__video {
