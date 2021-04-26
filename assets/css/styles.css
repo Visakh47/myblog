@@ -41,7 +41,7 @@ body {
   margin: 0;
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
-  background-color: var(--body-color);
+  background-color: black; /* change here */
   color: var(--text-color);
 }
 
